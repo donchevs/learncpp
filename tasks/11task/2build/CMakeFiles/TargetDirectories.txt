@@ -1,0 +1,3 @@
+/home/spserv/sofia/my_project/learn/tasks/11task/build/CMakeFiles/rebuild_cache.dir
+/home/spserv/sofia/my_project/learn/tasks/11task/build/CMakeFiles/task.dir
+/home/spserv/sofia/my_project/learn/tasks/11task/build/CMakeFiles/edit_cache.dir
